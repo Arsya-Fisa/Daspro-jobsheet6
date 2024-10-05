@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pemilihan2Percobaan101 {
+public class Pemilihan2Percobaan1No01 {
 
     public static void main(String[] args) {
         Scanner absen01 = new Scanner (System.in);
